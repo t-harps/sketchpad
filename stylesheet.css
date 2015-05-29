@@ -1,0 +1,11 @@
+#container {
+	width: 1000px;
+	height: 498px;
+	border: 1px solid black;
+}
+
+.square {
+	display: inline-block;
+	margin-bottom:-6px;
+	background-color:#e6e6e6;
+}
