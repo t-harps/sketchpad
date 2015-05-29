@@ -38,7 +38,7 @@ $(document).ready(function(){
 		});
 
 		$('#clear').click(function(){
-			$('.square').css("background-color","white");
+			$('.square').css("background-color","#e6e6e6");
 		});
 	});
 
